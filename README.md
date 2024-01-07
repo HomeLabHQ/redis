@@ -1,0 +1,2 @@
+# redis
+Central redis instance 
